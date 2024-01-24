@@ -1,1 +1,1 @@
-/cli/* /cli?q=:splat
+/cli/:name /cli?q=:name
