@@ -1,1 +1,1 @@
-/cli/* https://test.fafig.top/:splat
+/cli/:name /cli?q=:name
